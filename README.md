@@ -41,7 +41,7 @@ Olá, Eu me chamo [João Pedro Matias!](https://github.com/jpmmatias), estudante
 📈 Meus status no GitHub!
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jpmmatias&show_icons=true&theme=gotham" alt="jpmmatias" />  </p>
-<p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jpmmatias&hide=html,c&show_icons=true&theme=gotham">  </p>
+<p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jpmmatias&hide=html,c-sharp&show_icons=true&theme=gotham">  </p>
 
 
 
