@@ -21,14 +21,17 @@ Olá, Eu me chamo [João Pedro Matias!](https://github.com/jpmmatias), estudante
   
 **Mais alguns detalhes:**
 
+- 👨🏽‍💻 Atualmente trabalhando e evoluindo minhas habilidades em programação criativa e estruturas de dados & algoritmos;
+- 🤝 Aberto para colaborações em projetos voltados a Desenvolvimento Web;
 - 💬 Pode me perguntar qualquer coisa,sempre disposto a ajudar!;
-- 📫 Como entrar em contato: [@jpmmatas](https://twitter.com/jpmmatias);
-- 📝[Curriculo]()
+- 🌐 Visite meu [site do portfólio] () para informações completas;
+- 📫 Como entrar em contato rapidamente: [@jpmmatas](https://twitter.com/jpmmatias);
+- 📝[Curriculo]();
 
 **Linguagens e Ferramentas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -41,7 +44,7 @@ Olá, Eu me chamo [João Pedro Matias!](https://github.com/jpmmatias), estudante
 📈 Meus status no GitHub!
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jpmmatias&show_icons=true&theme=gotham" alt="jpmmatias" />  </p>
-<p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jpmmatias&hide=html,c-sharp&show_icons=true&theme=gotham">  </p>
+<p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jpmmatias&hide=html,c_sharp&show_icons=true&theme=gotham">  </p>
 
 
 
