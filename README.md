@@ -24,9 +24,9 @@ Olá, Eu me chamo [João Pedro Matias!](https://github.com/jpmmatias), estudante
 - 👨🏽‍💻 Atualmente trabalhando e evoluindo minhas habilidades em programação criativa e estruturas de dados & algoritmos;
 - 🤝 Aberto para colaborações em projetos voltados a Desenvolvimento Web;
 - 💬 Pode me perguntar qualquer coisa,sempre disposto a ajudar!;
-- 🌐 Visite meu [site do portfólio] () para informações completas;
+[//]: <>(- 🌐 Visite meu [site do portfólio] () para informações completas;)
 - 📫 Como entrar em contato rapidamente: [@jpmmatas](https://twitter.com/jpmmatias);
-- 📝[Curriculo]();
+[//]: <>(- 📝[Curriculo]();)
 
 **Linguagens e Ferramentas:**  
 
@@ -44,7 +44,7 @@ Olá, Eu me chamo [João Pedro Matias!](https://github.com/jpmmatias), estudante
 📈 Meus status no GitHub!
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jpmmatias&show_icons=true&theme=gotham" alt="jpmmatias" />  </p>
-<p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jpmmatias&hide=html,c_sharp&show_icons=true&theme=gotham">  </p>
+
 
 
 
