@@ -3,6 +3,11 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-matias-8aa19a14b/">
   <img align="left" alt="Linkedin do João Pedro Matias" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<a href="https://twitter.com/jpmmatias">
+  <img align="left" alt="Twitter do João Pedro Matias" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 <a href="https://open.spotify.com/user/12148904158/>
   <img align="left" alt="Spotify do João Pedro Matias" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
@@ -35,7 +40,9 @@ Olá, Eu me chamo [João Pedro Matias!](https://github.com/jpmmatias), estudante
 
 📈 Meus status no GitHub!
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jpmmatias&show_icons=true&theme=gotham" alt="jpmmatias" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jpmmatias&show_icons=true&theme=gotham" alt="jpmmatias" />  </p>
+<p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jpmmatias&hide=html&show_icons=true&theme=gotham">  </p>
+
 
 
 
