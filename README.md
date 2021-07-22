@@ -16,7 +16,7 @@
 
 <br />
 
-Olá, me chamo [João Pedro Matias](https://github.com/jpmmatias)!, sou estudante de Design de Interação e desenvolvedor Full Stack 🚀 
+Olá, me chamo [João Pedro Matias](https://github.com/jpmmatias)!, designer de interação e desenvolvedor Full Stack 🚀 
 
   
 **Mais alguns detalhes:**
