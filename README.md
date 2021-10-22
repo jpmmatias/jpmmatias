@@ -16,7 +16,7 @@
 
 <br />
 
-Olá, me chamo [João Pedro Matias](https://github.com/jpmmatias)!, e sou desenvolvedor Full Stack 🚀 
+Olá, me chamo [João Pedro Matias](https://github.com/jpmmatias)! E sou desenvolvedor Full Stack 🚀 
 
   
 **Mais alguns detalhes:**
