@@ -21,7 +21,6 @@ Olá, me chamo [João Pedro Matias](https://github.com/jpmmatias)! E sou desenvo
   
 **Mais alguns detalhes:**
 
-- 👨🏽‍💻 Atualmente trabalhando e evoluindo minhas habilidades em Ruby on Rails;
 - 🤝 Aberto para colaborações em projetos voltados a Desenvolvimento Web;
 - 💬 Pode me perguntar qualquer coisa,sempre disposto a ajudar!;
 - 📫 Como entrar em contato rapidamente: [@jpmmatas](https://twitter.com/jpmmatias);
