@@ -8,10 +8,6 @@
   <img align="left" alt="Twitter do João Pedro Matias" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/12148904158">
-  <img align="left" alt="Spotify do João Pedro Matias" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=jpmmatias.jpmmatias)
 
 <br />
