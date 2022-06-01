@@ -1,10 +1,10 @@
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there!
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-matias-8aa19a14b/">
   <img align="left" alt="Linkedin do João Pedro Matias" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/jpmmatias">
+<a href="https://twitter.com/jpmmatias">Cancel changes
   <img align="left" alt="Twitter do João Pedro Matias" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
