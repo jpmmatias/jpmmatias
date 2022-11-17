@@ -1,12 +1,7 @@
 ### Hey there!
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-matias-8aa19a14b/">
-  <img align="left" alt="Linkedin do João Pedro Matias" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://twitter.com/jpmmatias">Cancel changes
-  <img align="left" alt="Twitter do João Pedro Matias" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+  <img align="left" alt="Linkedin do João Pedro Matias" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jpmmatias.jpmmatias)
 
@@ -19,10 +14,6 @@ Olá, me chamo [João Pedro Matias](https://github.com/jpmmatias)! E sou desenvo
 
 - 🤝 Aberto para colaborações em projetos voltados a Desenvolvimento Web;
 - 💬 Pode me perguntar qualquer coisa,sempre disposto a ajudar!;
-- 📫 Como entrar em contato rapidamente: [@jpmmatas](https://twitter.com/jpmmatias);
-<!---
-- 🌐 Visite meu [site do portfólio] () para informações completas;)
-- 📝[Curriculo]();
 -->
 **Linguagens e Ferramentas:**  
 
