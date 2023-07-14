@@ -1,7 +1,5 @@
 ### Hey there!
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-matias-8aa19a14b/">
-  <img align="left" alt="Linkedin do João Pedro Matias" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jpmmatias.jpmmatias)
 
