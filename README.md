@@ -8,12 +8,12 @@
 class SoftwareEngineer {
     name: string;
     role: string;
-    language_spoken: string[];
+    languageSpoken: string[];
 
     constructor() {
         this.name = "João Pedro Matias";
         this.role = "Software Engineer";
-        this.language_spoken = ["pt_BR", "en_US"];
+        this.languageSpoken = ["pt_BR", "en_US"];
     }
 
     sayHi(): void {
