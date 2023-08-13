@@ -66,7 +66,7 @@ me.sayHi();
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jpmmatias&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jpmmatias&theme=nord&column=7&rank=-C,-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ## &#x1f4c8; GitHub Stats
 
