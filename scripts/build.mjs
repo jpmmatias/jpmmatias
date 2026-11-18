@@ -38,11 +38,11 @@ const noise = (x, y) => {
 
 // ---------- 1. hero ----------
 {
-  const W = 1200, H = 420, r = rng(11);
+  const W = 1200, H = 320, r = rng(11);
   let art = "";
   const nodes = [];
   for (let i = 0; i < 70; i++) {
-    let x = 560 + r() * 640, y = 70 + r() * 330, d = "M" + f(x) + " " + f(y);
+    let x = 560 + r() * 640, y = 70 + r() * 230, d = "M" + f(x) + " " + f(y);
     const steps = 34 + Math.floor(r() * 30);
     for (let s = 0; s < steps; s++) {
       const a = noise(x / 150, y / 150) * Math.PI * 3.2;
@@ -65,25 +65,24 @@ const noise = (x, y) => {
     text(48, 46, "MATIAS / INDEX", { size: 14, fill: C.mint, weight: 600, ls: 1.5 }) +
     text(W - 48, 46, "SÃO PAULO, BR", { size: 14, anchor: "end" }) +
     `<line x1="48" x2="${W - 48}" y1="66" y2="66" stroke="${C.line}"/>` +
-    text(44, 232, "Matias", { size: 168, fill: C.fg, font: SANS, weight: 700, ls: -6 }) +
-    text(50, 296, "Software engineer building AI-powered products.", { size: 34, fill: C.fg, font: SANS, weight: 500 }) +
-    text(50, 340, "Engineering, design and product thinking, shipped.", { size: 22, font: SANS, weight: 400 }) +
-    `<line x1="48" x2="${W - 48}" y1="372" y2="372" stroke="${C.line}"/>` +
-    text(48, 399, "AI AGENTS  ·  FULL-STACK  ·  MOBILE  ·  INDIE HACKING", { size: 14, ls: 1.2 }) +
-    text(W - 48, 399, "> building_", { size: 14, fill: C.mint, anchor: "end" });
+    text(44, 186, "Matias", { size: 128, fill: C.fg, font: SANS, weight: 700, ls: -5 }) +
+    text(50, 236, "Software engineer building AI-powered products.", { size: 32, fill: C.fg, font: SANS, weight: 500 }) +
+    `<line x1="48" x2="${W - 48}" y1="266" y2="266" stroke="${C.line}"/>` +
+    text(48, 293, "AI AGENTS  ·  FULL-STACK  ·  MOBILE  ·  INDIE HACKING", { size: 14, ls: 1.2 }) +
+    text(W - 48, 293, "> building_", { size: 14, fill: C.mint, anchor: "end" });
   write("hero.svg", W, H, "Matias — software engineer building AI-powered products", body, defs);
 }
 
 // ---------- 2. project cards (conceptual illustrations, not product UI) ----------
-const W = 600, H = 330;
+const W = 600, H = 280;
 const card = (file, n, accent, meta, name, title, art) =>
   write(file, W, H, title,
     text(28, 44, n, { size: 16, fill: accent, weight: 700 }) +
     text(62, 44, meta, { size: 14, ls: 1.2 }) +
     `<line x1="28" x2="${W - 28}" y1="62" y2="62" stroke="${C.line}"/>` +
-    text(28, 128, name, { size: 46, fill: C.fg, font: SANS, weight: 700, ls: -1 }) +
-    art +
-    text(W - 28, H - 18, "CONCEPT ILLUSTRATION", { size: 10, anchor: "end", ls: 1.2, fill: "#5d6b77" }));
+    text(28, 104, name, { size: 38, fill: C.fg, font: SANS, weight: 700, ls: -1 }) +
+    `<g transform="translate(45 6) scale(.85)">${art}</g>` +
+    text(W - 28, 44, "CONCEPT ART", { size: 10, anchor: "end", ls: 1.2, fill: "#5d6b77" }));
 
 // Aether: the rule that shapes it, "the model proposes, code acts"
 {
